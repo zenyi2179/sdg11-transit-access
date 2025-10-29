@@ -4,7 +4,10 @@
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Documentation](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://your-organization.github.io/sdg11-pt-access/)
 
+
 一个用于分析联合国可持续发展目标（SDG）11.2.1指标 - 公共交通可达性的Python工具包。
+本项目基于联合国可持续发展目标（Sustainable Development Goals, SDGs）中第 11 项 “可持续城市与社区” 的 11.2 指标，旨在通过地理信息系统 (GIS) 技术评估城市居民在不同公共交通设施可达范围内的人口覆盖率。 本研究利用 ArcGIS 的空间分析模型、开放街图 (OSM) 数据及人口栅格数据，实现了公共交通站点的空间缓冲区分析、人口掩膜筛选及可达性基尼系数的计算，最终生成可复现的自动化分析流程。
+
 
 ## 功能特性
 
